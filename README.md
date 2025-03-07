@@ -30,6 +30,6 @@ Soy **Marlon Santana**, un apasionado por la resolución de problemas y la imple
 </div>
 
 ## 📫 Conéctate conmigo
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)
-- 🌐 [Portafolio](https://tu-portafolio.com)
-- 📩 [Email](mailto:tuemail@correo.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/marlon316)
+- 🌐 [Portafolio](https://msantana.net)
+- 📩 [Email](mailto:dev.marlonsantana@gmail.com)
